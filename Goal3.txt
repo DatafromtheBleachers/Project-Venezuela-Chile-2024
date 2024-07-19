@@ -1,0 +1,79 @@
+Team	Player	Event	Mins	Secs	X	Y	X2	Y2
+Chile	Alexánder Aravená 	Missed Pass	17.00	41.00	77.00	95.00	66.00	82.00
+Venezuela	Darwin Machís 	Pass	17.00	54.00	65.00	80.00	69.00	94.00
+Venezuela	González	Pass	18.00	28.00	69.00	94.00	65.00	80.00
+Venezuela	Darwin Machís 	Dribble	18.00	42.00	64.00	79.00	64.00	71.00
+Venezuela	Darwin Machís 	Pass	18.00	52.00	65.00	72.00	60.00	63.00
+Venezuela	Rincón	Pass	18.00	52.00	60.00	62.00	65.00	52.00
+Venezuela	Cásseres Jr.	Pass	18.00	52.00	64.00	52.00	57.00	32.00
+Venezuela	Navarro	Pass	18.00	52.00	56.00	31.00	62.00	35.00
+Venezuela	Cásseres Jr.	Pass	18.00	52.00	63.00	36.00	55.00	31.00
+Venezuela	Navarro	Pass	18.00	52.00	55.00	28.00	60.00	28.00
+Venezuela	Cásseres Jr.	Pass	18.00	52.00	59.00	27.00	65.00	34.00
+Venezuela	Soteldo	Pass	18.00	52.00	65.00	34.00	59.00	22.00
+Venezuela	Cásseres Jr.	Pass	18.00	52.00	59.00	21.00	53.00	34.00
+Venezuela	Rincón	Pass	18.00	52.00	53.00	36.00	57.00	27.00
+Venezuela	Cásseres Jr.	Pass	18.00	52.00	55.00	26.00	40.00	32.00
+Venezuela	Ángel	Pass	18.00	52.00	40.00	30.00	38.00	63.00
+Venezuela	Osorio	Pass	18.00	52.00	37.00	62.00	47.00	49.00
+Venezuela	Rincón	Pass	18.00	52.00	48.00	48.00	32.00	34.00
+Venezuela	Ángel	Pass	18.00	52.00	31.00	34.00	40.00	14.00
+Venezuela	Navarro	Pass	18.00	52.00	40.00	12.00	36.00	25.00
+Venezuela	Rincón	Pass	18.00	52.00	35.00	24.00	47.00	34.00
+Venezuela	Moreno	Pass	18.00	52.00	47.00	35.00	34.00	30.00
+Venezuela	Rincón	Pass	18.00	52.00	34.00	30.00	13.00	48.00
+Venezuela	Romo	Pass	18.00	52.00	13.00	49.00	17.00	21.00
+Venezuela	Ángel	Pass	18.00	52.00	16.00	19.00	22.00	28.00
+Venezuela	Rincón	Dribble	18.00	52.00	22.00	28.00	29.00	29.00
+Venezuela	Rincón	Pass	18.00	52.00	29.00	27.00	29.00	6.00
+Venezuela	Navarro	Pass	18.00	52.00	29.00	6.00	40.00	8.00
+Venezuela	Moreno	Pass	18.00	52.00	40.00	7.00	31.00	20.00
+Venezuela	Rincón	Dribble	18.00	52.00	30.00	20.00	39.00	37.00
+Venezuela	Rincón	Pass	18.00	52.00	40.00	38.00	33.00	66.00
+Venezuela	Osorio	Pass	18.00	52.00	32.00	65.00	41.00	49.00
+Venezuela	Rincón	Pass	18.00	52.00	41.00	50.00	32.00	65.00
+Venezuela	Osorio	Pass	18.00	52.00	32.00	65.00	30.00	57.00
+Venezuela	Cásseres Jr.	Pass	18.00	52.00	30.00	56.00	29.00	30.00
+Venezuela	Ángel	Pass	18.00	52.00	29.00	28.00	34.00	12.00
+Venezuela	Navarro	Pass	18.00	52.00	33.00	11.00	36.00	28.00
+Venezuela	Rincón	Pass	18.00	52.00	35.00	26.00	45.00	26.00
+Venezuela	Soteldo	Pass	18.00	52.00	45.00	27.00	39.00	15.00
+Venezuela	Navarro	Pass	18.00	52.00	39.00	17.00	39.00	4.00
+Venezuela	Moreno	Pass	18.00	52.00	39.00	4.00	37.00	20.00
+Venezuela	Rincón	Dribble	18.00	52.00	36.00	20.00	42.00	35.00
+Venezuela	Rincón	Pass	18.00	52.00	42.00	35.00	40.00	24.00
+Venezuela	Navarro	Pass	18.00	52.00	40.00	23.00	56.00	28.00
+Venezuela	Rondón	Pass	18.00	52.00	56.00	29.00	53.00	4.00
+Venezuela	Moreno	Pass	18.00	52.00	52.00	3.00	62.00	4.00
+Venezuela	Rondón	Pass	18.00	52.00	62.00	4.00	51.00	2.00
+Venezuela	Moreno	Pass	18.00	52.00	62.00	3.00	52.00	3.00
+Venezuela	Rondón	Pass	18.00	52.00	62.00	2.00	32.00	7.00
+Venezuela	Ángel	Dribble	18.00	52.00	31.00	7.00	20.00	10.00
+Venezuela	Ángel	Pass	18.00	52.00	20.00	9.00	10.00	66.00
+Venezuela	Romo	Pass	18.00	52.00	10.00	67.00	12.00	18.00
+Venezuela	Ángel	Pass	18.00	52.00	15.00	7.00	28.00	4.00
+Venezuela	Navarro	Pass	18.00	52.00	28.00	3.00	46.00	32.00
+Venezuela	Rondón	Pass	18.00	52.00	46.00	32.00	44.00	89.00
+Venezuela	González	Pass	18.00	52.00	45.00	90.00	41.00	77.00
+Venezuela	Osorio	Pass	18.00	52.00	40.00	79.00	46.00	62.00
+Venezuela	Moreno	Pass	18.00	52.00	46.00	62.00	40.00	77.00
+Venezuela	Osorio	Pass	18.00	52.00	39.00	77.00	34.00	57.00
+Venezuela	Rincón	Pass	18.00	52.00	35.00	57.00	41.00	5.00
+Venezuela	Navarro	Dribble	18.00	52.00	41.00	4.00	55.00	6.00
+Venezuela	Navarro	Pass	18.00	52.00	54.00	4.00	60.00	3.00
+Venezuela	Soteldo	Pass	18.00	52.00	60.00	3.00	47.00	29.00
+Venezuela	Rincón	Pass	18.00	52.00	47.00	27.00	56.00	61.00
+Venezuela	Darwin Machís 	Pass	18.00	52.00	57.00	60.00	47.00	80.00
+Venezuela	Osorio	Pass	18.00	52.00	47.00	80.00	48.00	56.00
+Venezuela	Rincón	Pass	18.00	52.00	47.00	57.00	10.00	56.00
+Venezuela	Romo	Pass	18.00	52.00	10.00	56.00	16.00	13.00
+Venezuela	Ángel	Dribble	18.00	52.00	15.00	10.00	21.00	10.00
+Venezuela	Ángel	Pass	18.00	52.00	20.00	8.00	27.00	22.00
+Venezuela	Rincón	Pass	18.00	52.00	26.00	20.00	40.00	20.00
+Venezuela	Rondón	Pass	18.00	52.00	40.00	18.00	29.00	35.00
+Venezuela	Moreno	Pass	18.00	52.00	30.00	33.00	6.00	44.00
+Venezuela	Romo	Pass	18.00	52.00	5.00	46.00	68.00	4.00
+Venezuela	Soteldo	Dribble	18.00	52.00	68.00	3.00	99.00	25.00
+Venezuela	Soteldo	Pass	18.00	52.00	98.00	25.00	94.00	46.00
+Venezuela	Cásseres Jr.	Shot Assist	18.00	52.00	94.00	46.00	96.00	67.00
+Venezuela	Darwin Machís 	Shot	18.00	52.00	96.00	67.00	100	63.07692307692308
