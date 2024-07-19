@@ -10,9 +10,9 @@ We will answer the following questions:
 2) We will check if every single player on the Venezuelan's men soccer team touched the ball during the creation of the third goal against Chile.
 
 # Executive Summary
-1. [Introduction](https://github.com/DatafromtheBleachers/Understat/new/main?filename=README.md#introduction)
-2. [Methodology](https://github.com/DatafromtheBleachers/Understat/new/main?filename=README.md#methodology)
-3. [Results](https://github.com/DatafromtheBleachers/Understat/new/main?filename=README.md#results)
+1. [Introduction](https://github.com/DatafromtheBleachers/ProjectVenezuelaChile/new/main?filename=README.md#introduction)
+2. [Methodology](https://github.com/DatafromtheBleachers/ProjectVenezuelaChile/new/main?filename=README.md#methodology)
+3. [Results](https://github.com/DatafromtheBleachers/ProjectVenezuelaChile/new/main?filename=README.md#results)
 
 # Introduction
 FC Python is a project that aims to provide accessible resources for learning basic Python, programming, and data skills to people interested in sports. It uses football data and concepts to deliver Python skills and tools.
