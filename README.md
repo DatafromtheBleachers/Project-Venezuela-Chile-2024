@@ -27,7 +27,7 @@ Data was extracted using this video:
 # Methodology
 
 The process consisted in 3 stages:
-1) [Collecting and Organizing the data](https://github.com/DatafromtheBleachers/Understat/blob/main/Codes/Project-Understat-Webscraping.ipynb)
+1) [Importing and Cleaning data](https://github.com/DatafromtheBleachers/Understat/blob/main/Codes/Project-Understat-Webscraping.ipynb)
 2) [Data Cleaning](https://github.com/DatafromtheBleachers/Understat/blob/main/Codes/Project-Understat-Data-Cleaning.ipynb) 
 3) [Data Visualization using barplots, histograms, mplsoccer and heatmaps](https://github.com/DatafromtheBleachers/Understat/blob/main/Project-Understat.ipynb)
 
