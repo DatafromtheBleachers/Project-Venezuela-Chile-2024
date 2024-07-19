@@ -14,7 +14,7 @@ We will answer the following questions:
 2. [Methodology](https://github.com/DatafromtheBleachers/ProjectVenezuelaChile/new/main?filename=README.md#methodology)
 3. [Results](https://github.com/DatafromtheBleachers/ProjectVenezuelaChile/new/main?filename=README.md#results)
 
-# Introduction
+#Introduction
 FC Python is a project that aims to provide accessible resources for learning basic Python, programming, and data skills to people interested in sports. It uses football data and concepts to deliver Python skills and tools.
 The interfaces connects a Youtube video and the user can define Players names, Events and location on the field by clicking on the soccer and making its best educated guess.
 
