@@ -6,8 +6,8 @@ Data was extracted making use of the tool made by FC Python.
 
 We will answer the following questions:
 
-1) We will check if every single player on the Venezuelan's men soccer team touched the ball during the creation of the third goal against Chile.
-2) Which side of the field Venezuela moved the ball/played the most.
+1) Which side of the field Venezuela moved the ball/played the most.
+2) We will check if every single player on the Venezuelan's men soccer team touched the ball during the creation of the third goal against Chile.
 
 # Executive Summary
 1. [Introduction](https://github.com/DatafromtheBleachers/Understat/new/main?filename=README.md#introduction)
@@ -20,29 +20,31 @@ The interfaces connects a Youtube video and the user can define Players names, E
 
 ![image](https://github.com/user-attachments/assets/5284855a-2e7f-4583-a2df-32f4dac810f7)
 
-Data was extracted using this video:
-[youtube](https://youtu.be/7dBx-xTlrl4)
+Data was extracted using this[video](https://youtu.be/7dBx-xTlrl4)
 
 
 # Methodology
 
 The process consisted in 3 stages:
-1) [Importing and Cleaning data](https://github.com/DatafromtheBleachers/Understat/blob/main/Codes/Project-Understat-Webscraping.ipynb)
-2) [Data Cleaning](https://github.com/DatafromtheBleachers/Understat/blob/main/Codes/Project-Understat-Data-Cleaning.ipynb) 
-3) [Data Visualization using barplots, histograms, mplsoccer and heatmaps](https://github.com/DatafromtheBleachers/Understat/blob/main/Project-Understat.ipynb)
+1) [Importing and Cleaning data](https://github.com/DatafromtheBleachers/ProjectVenezuelaChile/blob/main/Code/Project_VenezuelavsChile-Cleaning-Data.ipynb)
+2) [Data Visualization using mplsoccer and heatmaps](https://github.com/DatafromtheBleachers/Understat/blob/main/Project-Understat.ipynb)
 
-First, lets have a look in the format of the data once is scrapped:
-![image](https://github.com/user-attachments/assets/9d4b7817-98af-4101-a04d-328861636a37)
 
 # Results
 
-## 1) Who are the 5 most influential players for Goal Events? (Goals + Assists) ##
+## 1) Which side of the field Venezuela moved the ball/played the most? ##
 
-Leverkusen could not have gotten where they are if it was not due to the contributions of these players. It is interesting to see how accurate Álex Grimaldo was on the scoring ocassions he had, as his Goal Expectations seemed to be around ~6 Goals at most, while he outperformed generating 10! 
+- Venezuela leaned more towards the left side of the field (Attacking from Left to Right), probably because Chile's player that got a red card was on that side of the field or also because Soteldo - the most skilled player in Venezuela - plays on the left wing. 
 
-![image](https://github.com/user-attachments/assets/1ebb173f-c54f-445d-a3e1-171945490623)
+![image](https://github.com/user-attachments/assets/b92f5b75-9229-45f7-a54e-e92cd5f062eb)
 
-## 2) How is the performance of the 5 most influential players during the season (Month by month and by minutes played) ##
+I want to check the buildup pass by pass:
+![Watch the video](https://github.com/DatafromtheBleachers/ProjectVenezuelaChile/blob/main/First%20Movie.mp4)
+
+
+
+## 2) We will check if every single player on the Venezuelan's men soccer team touched the ball during the creation of the third goal against Chile.
+ ##
 
 ### Month by Month ###
 
