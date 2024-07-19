@@ -20,8 +20,7 @@ The interfaces connects a Youtube video and the user can define Players names, E
 
 ![image](https://github.com/user-attachments/assets/5284855a-2e7f-4583-a2df-32f4dac810f7)
 
-Data was extracted using this[video](https://youtu.be/7dBx-xTlrl4)
-
+Data was extracted using this [video](https://youtu.be/7dBx-xTlrl4)
 
 # Methodology
 
@@ -38,43 +37,8 @@ The process consisted in 3 stages:
 
 ![image](https://github.com/user-attachments/assets/b92f5b75-9229-45f7-a54e-e92cd5f062eb)
 
-I want to check the buildup pass by pass:
-![Watch the video](https://github.com/DatafromtheBleachers/ProjectVenezuelaChile/blob/main/First%20Movie.mp4)
+Nonetheless, this does not show the buildup:
 
+https://github.com/user-attachments/assets/6e684234-8847-49ea-9747-2f49d21192cb
 
-
-## 2) We will check if every single player on the Venezuelan's men soccer team touched the ball during the creation of the third goal against Chile.
- ##
-
-### Month by Month ###
-
-- Boniface was having a very prolific start of the season, but it took him a while to get back into the scoreboard after the winter break.
-- Álex Grimaldo provided Assists or Goals during at least once a year. Clearly a strong and dangerous player for the rivals.
-
-![image](https://github.com/user-attachments/assets/a204861d-cc40-4405-baa6-51275fb4fc1b)
-
-## By Minutes Played ##
-- Álex Grimaldo is a complete threat during the whole game - He is able to assist or score at any point in the match, same as Florian Wirtz.
-- Special attention to the block of time between the 50th and the 70th minute, where a higher number of Boniface and Wirtz's goals/assist came up.
-
-![image](https://github.com/user-attachments/assets/32ca2367-48c3-4da4-85b5-bae564adc1c0)
-
-# 3) From the player that scores the most: Where does he prefers to shoot and also where does he score the most goals? #
-
-In the case of Bayer Leverkusen: Boniface takes the first place. 
-
-## Shot Heatmap ##
-
-- Boniface looks to place himself in areas with near the penalty spot.
-![image](https://github.com/user-attachments/assets/1248c285-241f-42c2-a7bd-209082c19640)
-
-## Goal Heatmap ##
-- Once again, although more faded, the higher amount of goals is located near the penalty spot. 
-![image](https://github.com/user-attachments/assets/05ce126a-ae3e-4fbe-bb15-03d1339c9999)
-
-# 4) Who is the best "duo" (Goals and assisted the most) #
-- Victor Boniface(Goals) + Floriant Wirtz(Assists) generated the most goals.
-- Second Best: Floriant Wirtz (Assists) + Victor Boniface (Assists). The pair seems to work really well together. 
-- This shows that Álex Grimaldo only assisted one player out of the top 5.
-![image](https://github.com/user-attachments/assets/525dd60c-9fe1-474f-a57a-ca71981c06cc)
-
+The video is still hard to follow:
