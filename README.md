@@ -10,7 +10,7 @@ We will answer the following questions:
 2) We will check if every single player on the Venezuelan's men soccer team touched the ball during the creation of the third goal against Chile.
 
 # Executive Summary
-1. [Introduction](https://github.com/DatafromtheBleachers/ProjectVenezuelaChile/new/main?filename=README.md#introduction)
+1. [Introduction](https://github.com/DatafromtheBleachers/ProjectVenezuelaChile/new/main?filename=README.md#Introduction)
 2. [Methodology](https://github.com/DatafromtheBleachers/ProjectVenezuelaChile/new/main?filename=README.md#methodology)
 3. [Results](https://github.com/DatafromtheBleachers/ProjectVenezuelaChile/new/main?filename=README.md#results)
 
