@@ -28,7 +28,6 @@ The process consisted in 3 stages:
 1) [Importing and Cleaning data](https://github.com/DatafromtheBleachers/ProjectVenezuelaChile/blob/main/Code/Project_VenezuelavsChile-Cleaning-Data.ipynb)
 2) [Data Visualization using mplsoccer and heatmaps](https://github.com/DatafromtheBleachers/Understat/blob/main/Project-Understat.ipynb)
 
-
 # Results
 
 ## 1) Which side of the field Venezuela moved the ball/played the most? ##
@@ -37,8 +36,15 @@ The process consisted in 3 stages:
 
 ![image](https://github.com/user-attachments/assets/b92f5b75-9229-45f7-a54e-e92cd5f062eb)
 
-Nonetheless, this does not show the buildup:
+Nonetheless, this does not show the exact path between each passing. A video will produce a better buildup: 
 
-https://github.com/user-attachments/assets/6e684234-8847-49ea-9747-2f49d21192cb
+### The buildup  ###
+https://github.com/user-attachments/assets/e092c791-7c90-4071-885d-868db9444d77
 
-The video is still hard to follow:
+## 2) Is every single player on the Venezuelan's men soccer team touching the ball during the creation of the third goal against Chile?
+
+- The answer is clearly yes! and not only that, but some players get more than 10 passes
+
+https://github.com/user-attachments/assets/094ae6c0-8924-4fe1-a339-2faffeecc9ba
+
+
